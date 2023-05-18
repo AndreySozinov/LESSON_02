@@ -1,1 +1,3 @@
-Lesson_02
+# LESSON_02
+
+Some simple classes on Java
